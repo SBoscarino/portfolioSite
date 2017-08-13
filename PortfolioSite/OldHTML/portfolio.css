@@ -1,0 +1,68 @@
+
+/*whole*/
+body {
+  font-family: 'Indie Flower', cursive;
+  margin: 0;
+  background-image: url("./images/wood-grain-background.jpg");
+  background-size: cover;
+}
+
+
+
+
+/*Nav*/
+nav {
+  padding: 0, 5%;
+}
+nav ul {
+  list-style: none;
+  display:flex;
+  padding-left: 0%;
+}
+
+.navlist li {
+  padding-left: 0;
+  flex-basis: 100%;
+  text-align: center;
+  padding: 20px 0%;
+  background-color: red;
+  margin-left: 5%;
+  margin-right: 5%;
+  color: white;
+  border-radius: 10%;
+}
+
+
+
+/*section*/
+section {
+  margin: 10px, 0px;
+  padding: 0px, 10px;
+  color:white;
+}
+
+h1, h2 {
+  color:white;
+  margin: 0%;
+  text-align: center;
+}
+
+.left h1 {
+  color:white;
+  margin: 0%;
+  text-align: center;
+}
+
+
+
+
+
+
+/*footer*/
+
+footer p{
+  background-color: red;
+  padding: 10px;
+  color:white;
+  margin-bottom:0%;
+}

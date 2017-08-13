@@ -1,0 +1,39 @@
+body, html {
+  width: 100%;
+  margin: 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+.parallax {
+    background-color: #3ebab0;
+    color: #dad8a8;
+    height: 400px;
+    width:100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+  height: 200px;
+  width: 210px;
+  border-radius: 90px;
+}
+nav {
+  background-color: gray;
+  color: white;
+  margin: 0;
+}
+
+.navlist {
+  list-style: none;
+  display:flex;
+}
+
+
+#f04480
+#f69d9f
+#dad8a8
+#81c7af
+#3ebab0
